@@ -1,6 +1,6 @@
 print('Hello World!!!')
 name = 'Sandeep Panda'
-ag = 20
+myage = 25
 address = 'Angul'
 print ('Name of the person is '+ name)
 print ('Age is '+ age)
